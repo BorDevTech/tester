@@ -1,0 +1,3 @@
+Sitemap: https://bordevtech.github.io/tester/sitemap.xml
+User-agent:*
+Disallow:
