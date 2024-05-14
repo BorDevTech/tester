@@ -1,2 +1,0 @@
-# tester
-Powered by PRSS
